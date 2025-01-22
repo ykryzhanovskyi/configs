@@ -1,0 +1,31 @@
+approvedSvIdentities:
+  - name: SV-Nodeops-Limited
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETM+CeyHvphl9RiPDKL3vVX7F+Qo4fIhJopmgU5B7IzkwSdFic20hFB6tnAuCTU+UBjqZgh8N/h9r+CTrXMPsRg==
+    rewardWeightBps: 100000
+  - name: Digital-Asset-1
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsRRntNkOLF2Wh7JxV0rBQPgT+SendIjFLXKUXCrLbVHqomkypHQiZP8OgFMSlByOnr81fqiUt3G36LUpg/fmgA==
+    rewardWeightBps: 150000
+  - name: Digital-Asset-2
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPKz6BujCKqA6ACviIybPw8aYTsKOYkWN6spIWL4CTxiH26QCyrrYFH06OGxa8UykyPM0yuywDXKF3ZVpWyF0hw==
+    rewardWeightBps: 150000
+  - name: Cumberland-1
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEE0FEwOWZIsogzxbfkFDvg6iVR2P8zmzCwemylXF9/hxynlJOPo4vg3W9AS7y50X5qqj9yrWvVeT9iC1dDMIE0g==
+    rewardWeightBps: 130000
+  - name: Cumberland-2
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdbZaNrBDaGGpZZ3URiMHoSL2N0WSIt/aVlkQYATwoc7htI9FkysxE8dN1yimjSKYz6VcDCr8NqRfd5ENMVEscg==
+    rewardWeightBps: 130000
+  - name: Global-Synchronizer-Foundation
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETri1wBeoV3AYnEF/slvViz9GO2g2lcxUQ3SadBTA70Kn87KzAZ/25n6+hhuRebuuGlm70KFKGJGr8RFd1YjB1Q==
+    rewardWeightBps: 330000
+  - name: MPC-Holding-Inc
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOxCYWSBB4hDz7O1XxJ3xswKXxJcQqsgyzBTbWjkwa+ILYXy8T2vtVMoZ+tC/Ykdp3MyFwcMIP1kzcDKCSp0qow==
+    rewardWeightBps: 110000
+  - name: Orb-1-LP-1
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEM/I3om2cE1ccDhYdy3wwKys3afBskv/OsRe8Jr52RywZOke+TfNbqQYcltATswgDi3HPdJUG3IEgo4Fh2vfl+g==
+    rewardWeightBps: 100000
+  - name: Tradeweb-Markets-1
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEO3NIzHIIxatGCFHLdONUYNJ3SePvA4lq3EbtMgvpe1CoALZZ+CRNZrHNsj49jdeJNQgcJBPsOcW7XP6VF7Q1YA==
+    rewardWeightBps: 100000
+  - name: C7-Technology-Services-Limited
+    publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIyvyNX23/fxKnCkKArjOWxi+OBUtIXw4GoEGFMG4JXZBeVYYU6s4hBA5heMKDVaFszYEQQP1bBfjSQwWJ8PLDA==
+    rewardWeightBps: 0

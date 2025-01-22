@@ -1,0 +1,35 @@
+name: Pull Request
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.json'
+      - '**.yaml'
+      - '**.yml'
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash --noprofile --norc -euo pipefail {0}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON and YAML files
+        uses: GrantBirki/json-yaml-validate@d7814b94473939c1daaca2c96131b891d4703a3c  # v2.7.1
+        with:
+          base_dir: configs
