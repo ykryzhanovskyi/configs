@@ -16,7 +16,7 @@ approvedSvIdentities:
     rewardWeightBps: 130000
   - name: Global-Synchronizer-Foundation
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAETri1wBeoV3AYnEF/slvViz9GO2g2lcxUQ3SadBTA70Kn87KzAZ/25n6+hhuRebuuGlm70KFKGJGr8RFd1YjB1Q==
-    rewardWeightBps: 330000
+    rewardWeightBps: 230000
   - name: MPC-Holding-Inc
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOxCYWSBB4hDz7O1XxJ3xswKXxJcQqsgyzBTbWjkwa+ILYXy8T2vtVMoZ+tC/Ykdp3MyFwcMIP1kzcDKCSp0qow==
     rewardWeightBps: 110000
@@ -28,4 +28,4 @@ approvedSvIdentities:
     rewardWeightBps: 100000
   - name: C7-Technology-Services-Limited
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIyvyNX23/fxKnCkKArjOWxi+OBUtIXw4GoEGFMG4JXZBeVYYU6s4hBA5heMKDVaFszYEQQP1bBfjSQwWJ8PLDA==
-    rewardWeightBps: 0
+    rewardWeightBps: 100000
