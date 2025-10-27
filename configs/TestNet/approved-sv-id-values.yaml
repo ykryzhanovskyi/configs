@@ -76,7 +76,7 @@ approvedSvIdentities:
         weight: 5_0000
       - beneficiary: "Republic-ghost-1::1220d1c3265d2d5e43ddb1dda4fbb42a1b3780c94ebd86c5aac178845fc9ddec90ef" # Republic CIP-0080 # escrow party_id added to the GhostSV-validator-1
         weight: 6_0000
-      - beneficiary: "Talos-ghost-1::1220d1c3265d2d5e43ddb1dda4fbb42a1b3780c94ebd86c5aac178845fc9ddec90ef" # Republic CIP-0085 # escrow party_id added to the GhostSV-validator-1
+      - beneficiary: "Talos-ghost-1::1220d1c3265d2d5e43ddb1dda4fbb42a1b3780c94ebd86c5aac178845fc9ddec90ef" # Talos CIP-0085 # escrow party_id added to the GhostSV-validator-1
         weight: 6_5000
   - name: MPC-Holding-Inc
     publicKey: MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEOxCYWSBB4hDz7O1XxJ3xswKXxJcQqsgyzBTbWjkwa+ILYXy8T2vtVMoZ+tC/Ykdp3MyFwcMIP1kzcDKCSp0qow==
