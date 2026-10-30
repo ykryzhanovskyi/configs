@@ -1,12 +1,13 @@
 {
   "contract": {
-    "contract_id": "003e8fc51022e35e9d839afc878018c016b1e6e51f26ef115faf41c81c8b654066ca11122065260814c730501097a6bf27dde3442846e3c6f0a84d842704a00609999f8a70",
-    "created_at": "2025-10-23T09:00:34.782334Z",
-    "created_event_blob": "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",
+    "contract_id": "004c2f3cb5642f52d7276ac41a7ca3d0d241ed259a29a7d14771817835fd923cceca1212200a36e0806a8d2dad6727566b9c4b94d8f8bd23eb76e5d709d6c6bacb08d9939e",
+    "created_at": "2026-10-06T12:00:22.662590Z",
+    "created_event_blob": "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",
     "payload": {
       "configSchedule": {
         "futureValues": [],
         "initialValue": {
+          "amuletSwitchOverTimes": null,
           "decentralizedSynchronizer": {
             "activeSynchronizer": "global-domain::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
             "fees": {
@@ -29,6 +30,8 @@
               ]
             }
           },
+          "developmentFundManagerBlacklist": null,
+          "externalPartyConfigStateTickDuration": null,
           "featuredAppActivityMarkerAmount": "1.0",
           "issuanceCurve": {
             "futureValues": [
@@ -40,7 +43,8 @@
                   "amuletToIssuePerYear": "20000000000.0",
                   "appRewardPercentage": "0.4",
                   "featuredAppRewardCap": "20000.0",
-                  "optValidatorFaucetCap": "570.0",
+                  "optDevelopmentFundPercentage": null,
+                  "optValidatorFaucetCap": "0.0",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.12"
@@ -53,8 +57,9 @@
                 "_2": {
                   "amuletToIssuePerYear": "10000000000.0",
                   "appRewardPercentage": "0.62",
-                  "featuredAppRewardCap": "20000.0",
-                  "optValidatorFaucetCap": "570.0",
+                  "featuredAppRewardCap": "1.5",
+                  "optDevelopmentFundPercentage": null,
+                  "optValidatorFaucetCap": "0.0",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.18"
@@ -67,8 +72,9 @@
                 "_2": {
                   "amuletToIssuePerYear": "5000000000.0",
                   "appRewardPercentage": "0.69",
-                  "featuredAppRewardCap": "20000.0",
-                  "optValidatorFaucetCap": "570.0",
+                  "featuredAppRewardCap": "1.5",
+                  "optDevelopmentFundPercentage": null,
+                  "optValidatorFaucetCap": "0.0",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.21"
@@ -81,8 +87,9 @@
                 "_2": {
                   "amuletToIssuePerYear": "2500000000.0",
                   "appRewardPercentage": "0.75",
-                  "featuredAppRewardCap": "20000.0",
-                  "optValidatorFaucetCap": "570.0",
+                  "featuredAppRewardCap": "1.5",
+                  "optDevelopmentFundPercentage": null,
+                  "optValidatorFaucetCap": "0.0",
                   "unfeaturedAppRewardCap": "0.6",
                   "validatorRewardCap": "0.2",
                   "validatorRewardPercentage": "0.2"
@@ -93,19 +100,31 @@
               "amuletToIssuePerYear": "40000000000.0",
               "appRewardPercentage": "0.15",
               "featuredAppRewardCap": "20000.0",
+              "optDevelopmentFundPercentage": null,
               "optValidatorFaucetCap": "570.0",
               "unfeaturedAppRewardCap": "0.6",
               "validatorRewardCap": "0.2",
               "validatorRewardPercentage": "0.05"
             }
           },
+          "minDevelopmentFundMintingDelay": null,
+          "optDevelopmentFundManager": "DevelopmentFundManager::1220962998062e172c888d9baaa8afe8d332e98a8d52c4aca12af37ea8203a87c674",
           "packageConfig": {
-            "amulet": "0.1.14",
-            "amuletNameService": "0.1.14",
-            "dsoGovernance": "0.1.19",
-            "validatorLifecycle": "0.1.5",
-            "wallet": "0.1.14",
-            "walletPayments": "0.1.14"
+            "amulet": "0.1.23",
+            "amuletNameService": "0.1.24",
+            "dsoGovernance": "0.1.29",
+            "validatorLifecycle": "0.1.9",
+            "wallet": "0.1.24",
+            "walletPayments": "0.1.23"
+          },
+          "rewardConfig": {
+            "appRewardCouponThreshold": "0.5",
+            "batchSize": "100",
+            "dryRunVersion": "RewardVersion_TrafficBasedAppRewards",
+            "mintingVersion": "RewardVersion_FeaturedAppMarkers",
+            "rewardCouponTimeToLive": {
+              "microseconds": "129600000000"
+            }
           },
           "tickDuration": {
             "microseconds": "600000000"
@@ -124,31 +143,21 @@
             "maxNumInputs": "100",
             "maxNumLockHolders": "50",
             "maxNumOutputs": "100",
+            "tokenStandardMaxTTL": null,
             "transferFee": {
               "initialRate": "0.0",
-              "steps": [
-                {
-                  "_1": "100.0",
-                  "_2": "0.0"
-                },
-                {
-                  "_1": "1000.0",
-                  "_2": "0.0"
-                },
-                {
-                  "_1": "1000000.0",
-                  "_2": "0.0"
-                }
-              ]
+              "steps": []
             }
           },
+          "transferPreapprovalBaseDuration": null,
           "transferPreapprovalFee": null
         }
       },
+      "contractStateSchemaVersion": null,
       "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
       "isDevNet": false
     },
-    "template_id": "3ca1343ab26b453d38c8adb70dca5f1ead8440c42b59b68f070786955cbf9ec1:Splice.AmuletRules:AmuletRules"
+    "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.AmuletRules:AmuletRules"
   },
   "domain_id": "global-domain::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
 }
